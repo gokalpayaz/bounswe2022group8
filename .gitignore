@@ -212,3 +212,5 @@ App/mobile/build/app/outputs*
 App/mobile/android*
 
 *.workspace.xml
+.scannerwork/.sonar_lock
+.scannerwork/report-task.txt
